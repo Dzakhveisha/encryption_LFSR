@@ -42,6 +42,7 @@ public class Main {
         }
     }
 
+    // x^27 + x^8 + x^7 + x + 1
     public static final byte generateByteKey() {
         BitSet resultKey = new BitSet(0);
 
